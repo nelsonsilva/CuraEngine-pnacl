@@ -1,0 +1,4 @@
+[submodule "CuraEngine"]
+	path = CuraEngine
+	url = https://github.com/nelsonsilva/CuraEngine.git
+	branch = dev
